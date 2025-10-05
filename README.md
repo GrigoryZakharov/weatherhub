@@ -140,8 +140,8 @@ weatherhub/
 ## 👨‍💻 Author
 
 **(https://github.com/GrigoryZakharov)**
-💬 Telegram: [@yourhandle](https://t.me/@ILoveTankiOnline)
-📧 Email: [@email.com](mailto:zakharov9933@gmail.com)
+💬 Telegram: [@ILoveTankiOnline](https://t.me/@ILoveTankiOnline)
+📧 Email: [zakharov9933@gmail.com](mailto:zakharov9933@gmail.com)
 
 ---
 
