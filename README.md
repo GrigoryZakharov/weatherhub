@@ -1,7 +1,11 @@
+<p align="center"> <img src="https://img.shields.io/badge/FastAPI-109989?style=for-the-badge&logo=fastapi&logoColor=white" /> <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" /> <img src="https://img.shields.io/badge/SQLAlchemy-FF6600?style=for-the-badge&logo=python&logoColor=white" /> <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" /> <img src="https://img.shields.io/badge/Celery-37814A?style=for-the-badge&logo=celery&logoColor=white" /> <img src="https://img.shields.io/badge/Docker-0db7ed?style=for-the-badge&logo=docker&logoColor=white" /> <img src="https://img.shields.io/badge/Python_3.11-3776AB?style=for-the-badge&logo=python&logoColor=white" /> </p>
 
 ---
 
 # 🌤️ WeatherHub — Async Weather Data API
+
+<img width="1510" height="875" alt="изображение" src="https://github.com/user-attachments/assets/abaf192c-2f4b-4aba-bc7c-a2a964c998b0" />
+
 
 > **WeatherHub** is an asynchronous REST API built with **FastAPI**, **Celery**, and **Redis**.
 > It provides up-to-date weather information for multiple cities and automatically updates data on a schedule.
